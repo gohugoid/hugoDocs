@@ -29,7 +29,7 @@ home = [ "HTML", "RSS", "REDIR", "HEADERS" ]
 
 [mediaTypes]
 [mediaTypes."text/netlify"]
-suffix = ""
+suffixes = [""]
 delimiter = ""
 
 [outputFormats]
